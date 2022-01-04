@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsalan Zeb, working as Application/Test Engineer
 - 👀 I’m interested in Testing, Application, Python and Data science
-- 🌱 I’m currently learning Pythong for Data science
+- 🌱 I’m currently learning Python for Data science
 - 💞️ I’m looking to collaborate on different project related to Python and Data science
 - 📫 How to reach me https://www.linkedin.com/in/arsalanzeb0555/ 
 
